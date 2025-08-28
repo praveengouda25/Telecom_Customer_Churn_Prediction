@@ -93,7 +93,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Lack of **online security services** increases churn risk.  
 
 ### 8. Senior Citizens  
-![Senior Citizen](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/seniorCitzen.PNG?raw=true)  
+![Senior Citizen](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/seniorCitzen.PNG)  
 > Senior citizens have a higher churn rate.  
 
 ### 9. Billing  

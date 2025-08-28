@@ -178,8 +178,30 @@ Final Score
 <img src= "https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/confusion%20matrix.PNG?raw=true" width = "425" />
 
 >From the confusion matrix we can see that: There are total 1383+166=1549 actual non-churn values and the algorithm predicts 1400 of them as non churn and 149 of them as churn. While there are 280+280=561 actual churn values and the algorithm predicts 280 of them as non churn values and 281 of them as churn values.
-## Optimizations
 
-We could use Hyperparamete Tuning or Feature enginnering methods to improve the accuracy further.
+## Conclusion :
+:
+This project demonstrates how Machine Learning can be applied to predict customer churn in the telecom industry. By analyzing customer demographics, service usage, contract types, and billing methods, we built several classification models to identify customers at risk of leaving.
+
+The Voting Classifier (combining Gradient Boosting, Logistic Regression, and AdaBoost) achieved the highest accuracy of ~85%, outperforming individual models.
+
+Key factors influencing churn include:
+
+Month-to-Month contracts – customers are less committed and more likely to leave.
+
+Electronic check payments – strongly associated with higher churn.
+
+High monthly charges & shorter tenure – lead to dissatisfaction.
+
+Lack of online security, tech support, or dependents – increases churn risk.
+
+## Business Impact:
+Accurate churn prediction enables telecom providers to:
+
+Design targeted retention strategies (loyalty benefits, discounts, personalized offers).
+
+Improve customer satisfaction by addressing the key pain points.
+
+Reduce churn rates, ultimately saving millions in revenue.
 
 

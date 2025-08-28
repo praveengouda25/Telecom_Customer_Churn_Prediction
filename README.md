@@ -97,7 +97,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Senior citizens have a higher churn rate.  
 
 ### 9. Billing  
-![Billing](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/billing.PNG?raw=true)  
+![Billing](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/billing.PNG)  
 > Customers with **Paperless Billing** are more likely to churn.  
 
 ### 10. Tech Support  

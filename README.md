@@ -54,7 +54,7 @@ This dashboard helps stakeholders **visualize churn drivers** and explore custom
 ### 📂 Dashboard File
 You can explore the interactive Power BI dashboard by downloading the `.pbix` file:  
 
-👉 [Telecom_Customer_Churn_Dashboard.pbix](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/Telecom_Customer_Churn_Dashboard.pbix)  
+👉 [Telecom_Customer_Churn_Dashboard.pbix](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/tree/018f1afef9b68861245dc6470fa8ef2ed55426a6/Power-BI%20Dashboard)  
 
 ---
 

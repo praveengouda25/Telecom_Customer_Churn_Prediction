@@ -35,6 +35,29 @@ In the telecom industry, churn rates can be as high as **15–25% annually** due
 ## 📂 Dataset
 We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data).  
 
+---
+## 📊 Power BI Dashboard
+
+Along with Machine Learning models, a **Power BI dashboard** was created to provide interactive insights into customer churn.  
+This dashboard helps stakeholders **visualize churn drivers** and explore customer segments at risk.  
+
+### 🔹 Key Features of the Dashboard:
+- **Churn Rate Overview** – % of customers who left vs retained.  
+- **Customer Demographics** – Breakdown by gender, senior citizen, dependents.  
+- **Account & Services** – Contract type, billing methods, internet & security services.  
+- **Revenue Impact** – Monthly charges vs churn behavior.  
+- **Drill-Down Analysis** – Ability to filter customers based on churn risk.  
+
+### 📷 Dashboard Preview
+![Customer Churn Dashboard](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/customer_churn_dashboard.png?raw=true)
+
+### 📂 Dashboard File
+You can explore the interactive Power BI dashboard by downloading the `.pbix` file:  
+
+👉 [Telecom_Customer_Churn_Dashboard.pbix](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/Telecom_Customer_Churn_Dashboard.pbix)  
+
+---
+
 **Features include:**  
 - **Churn status** – Whether the customer left within the last month.  
 - **Services** – Phone, internet, streaming, online security, tech support, etc.  

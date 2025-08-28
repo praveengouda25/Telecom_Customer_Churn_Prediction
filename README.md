@@ -85,7 +85,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Customers with **Fiber Optic** services show higher churn.  
 
 ### 6. Dependents  
-![Dependents](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/dependents.PNG?raw=true)  
+![Dependents](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/dependents.PNG)  
 > Customers **without dependents** churn more.  
 
 ### 7. Online Security  

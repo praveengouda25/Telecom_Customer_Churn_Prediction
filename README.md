@@ -68,7 +68,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > ~26% of customers switched providers.  
 
 ### 2. Churn vs Gender  
-![Churn wrt Gender](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/distributionWRTGender.PNG?raw=true)  
+![Churn wrt Gender](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/distributionWRTGender.PNG)
 > Both genders show similar churn behavior.  
 
 ### 3. Contract Types  

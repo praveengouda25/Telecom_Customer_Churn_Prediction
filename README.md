@@ -89,7 +89,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Customers **without dependents** churn more.  
 
 ### 7. Online Security  
-![Online Security](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/onlineSecurity.PNG?raw=true)  
+![Online Security](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/onlineSecurity.PNG)  
 > Lack of **online security services** increases churn risk.  
 
 ### 8. Senior Citizens  

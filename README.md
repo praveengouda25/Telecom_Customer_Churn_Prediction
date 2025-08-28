@@ -64,7 +64,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1. Churn Distribution  
-![Churn distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)  
+![Churn distribution](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/Churn%20Distribution.png)
 > ~26% of customers switched providers.  
 
 ### 2. Churn vs Gender  

@@ -72,7 +72,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Both genders show similar churn behavior.  
 
 ### 3. Contract Types  
-![Contract distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Contract%20distribution.png?raw=true)  
+![Contract distribution](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/Contract%20distribution.png)  
 > Customers with **Month-to-Month contracts** are most likely to churn.  
 
 ### 4. Payment Methods  

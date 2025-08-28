@@ -81,7 +81,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Customers paying via **Electronic Check** churn more frequently.  
 
 ### 5. Internet Services  
-![Internet Services](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/internet%20services.PNG?raw=true)  
+![Internet Services](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/internet%20services.PNG)  
 > Customers with **Fiber Optic** services show higher churn.  
 
 ### 6. Dependents  

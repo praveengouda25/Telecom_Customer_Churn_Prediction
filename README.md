@@ -147,7 +147,7 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 ### 📊 Model Performance Visualizations  
 
-![Logistic Regression](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/LR.PNG?raw=true)  
+![image Alt](image_url).Replace
 
 ![KNN](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/KNN.PNG?raw=true)  
 

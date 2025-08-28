@@ -4,7 +4,7 @@
 [2]: https://www.linkedin.com/in/praveen-kumar-bcc2525/
 
 [![github](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/4f3921b8f8104e2a1fd9ff8dbf2191765a89e228/icons/git.svg)][1]
-[![linkedin](https://www.linkedin.com/in/praveen-kumar-bcc2525/)][2]
+[![linkedin](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
 
 </div>
 

@@ -101,7 +101,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 > Customers with **Paperless Billing** are more likely to churn.  
 
 ### 10. Tech Support  
-![Tech Support](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/techSupport.PNG?raw=true)  
+![Tech Support](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/techSupport.PNG)  
 > Lack of **Tech Support** drives higher churn.  
 
 ### 11. Charges & Tenure  

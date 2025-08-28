@@ -49,7 +49,7 @@ This dashboard helps stakeholders **visualize churn drivers** and explore custom
 - **Drill-Down Analysis** – Ability to filter customers based on churn risk.  
 
 ### 📷 Dashboard Preview
-![Customer Churn Dashboard](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/customer_churn_dashboard.png?raw=true)
+![Customer Churn Dashboard](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/075d2d7cb40c80bf9bec7c54a9db13f8e386afcd/icons/Risk%20Analysis%20Dashboard.png)
 
 ### 📂 Dashboard File
 You can explore the interactive Power BI dashboard by downloading the `.pbix` file:  

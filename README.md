@@ -129,25 +129,13 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 
 > **Best Model:** Voting Classifier (~85% Accuracy).  
 
-```python
-from sklearn.ensemble import VotingClassifier
-clf1 = GradientBoostingClassifier()
-clf2 = LogisticRegression()
-clf3 = AdaBoostClassifier()
 
-eclf1 = VotingClassifier(
-    estimators=[('gbc', clf1), ('lr', clf2), ('abc', clf3)], 
-    voting='soft'
-)
-eclf1.fit(X_train, y_train)
-predictions = eclf1.predict(X_test)
-print("Accuracy:", accuracy_score(y_test, predictions))
 
 #### Results after K fold cross validation:
 
 ### 📊 Model Performance Visualizations  
 
-![image Alt](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/LR.PNG)
+![Linear Regression](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/LR.PNG)
 
 ![KNN](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/KNN.PNG?raw=true)  
 

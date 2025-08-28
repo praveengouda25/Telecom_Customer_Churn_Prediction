@@ -3,8 +3,8 @@
 [1]: https://github.com/praveengouda25
 [2]: https://www.linkedin.com/in/praveen-kumar-bcc2525/
 
-[![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
+[![github](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/edit/main/README.md)][1]
+[![linkedin](https://www.linkedin.com/in/praveen-kumar-bcc2525/)][2]
 
 </div>
 

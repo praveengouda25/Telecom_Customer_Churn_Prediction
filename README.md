@@ -106,7 +106,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 
 ### 11. Charges & Tenure  
 ![Monthly Charges](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/carges%20distribution.PNG)
-![Total Charges](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/total%20charges.PNG?raw=true)  
+![Total Charges](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/total%20charges.PNG)  
 ![Tenure](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/tenure%20and%20churn.PNG)  
 > New customers and those with **high monthly charges** churn more.  
 

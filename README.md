@@ -16,7 +16,7 @@ In the telecom industry, churn rates can be as high as **15–25% annually** due
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1. Churn Distribution  
-![Churn Distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)  
+![Churn Distribution]([https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/commit/111c973aca0fa604a95c80a28d95ee3d6ee3cf46))  
 
 ### 2. Contract Types  
 ![Contract distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Contract%20distribution.png?raw=true)  

@@ -145,7 +145,7 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 #### Results after K fold cross validation:
 
-![Logistic Regression](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/LR.PNG?raw=true) 
+![Logistic Regression](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/LR.PNG) 
 ![KNN](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/KNN.PNG?raw=true)
 ![Naive Bayes](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/Naive%20Bayes.PNG?raw=true)
 ![Decision Tree](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/Decision%20trees.PNG?raw=true)

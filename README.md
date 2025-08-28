@@ -64,66 +64,81 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1. Churn Distribution  
-![Churn Distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)  
+![Churn distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)  
+> ~26% of customers switched providers.  
 
-### 2. Contract Types  
-![Contract Distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Contract%20distribution.png?raw=true)  
+### 2. Churn vs Gender  
+![Churn wrt Gender](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/distributionWRTGender.PNG?raw=true)  
+> Both genders show similar churn behavior.  
 
-### 3. Paperless Billing  
-![Paperless Billing](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/billing.PNG?raw=true)  
+### 3. Contract Types  
+![Contract distribution](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Contract%20distribution.png?raw=true)  
+> Customers with **Month-to-Month contracts** are most likely to churn.  
 
-### 4. Monthly Charges Distribution  
+### 4. Payment Methods  
+![Payment Methods](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/payment%20methods.png?raw=true)  
+![Payment wrt Churn](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/payment%20ethods%20with%20respectto%20churn.PNG?raw=true)  
+> Customers paying via **Electronic Check** churn more frequently.  
+
+### 5. Internet Services  
+![Internet Services](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/internet%20services.PNG?raw=true)  
+> Customers with **Fiber Optic** services show higher churn.  
+
+### 6. Dependents  
+![Dependents](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/dependents.PNG?raw=true)  
+> Customers **without dependents** churn more.  
+
+### 7. Online Security  
+![Online Security](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/onlineSecurity.PNG?raw=true)  
+> Lack of **online security services** increases churn risk.  
+
+### 8. Senior Citizens  
+![Senior Citizen](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/seniorCitzen.PNG?raw=true)  
+> Senior citizens have a higher churn rate.  
+
+### 9. Billing  
+![Billing](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/billing.PNG?raw=true)  
+> Customers with **Paperless Billing** are more likely to churn.  
+
+### 10. Tech Support  
+![Tech Support](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/techSupport.PNG?raw=true)  
+> Lack of **Tech Support** drives higher churn.  
+
+### 11. Charges & Tenure  
 ![Monthly Charges](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/carges%20distribution.PNG?raw=true)  
+![Total Charges](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/total%20charges.PNG?raw=true)  
+![Tenure](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/tenure%20and%20churn.PNG?raw=true)  
+> New customers and those with **high monthly charges** churn more.  
 
 ---
 
-## 🤖 Model Performance & Evaluation
+## 🤖 Machine Learning Models
 
-### Accuracy Score Comparison  
-![Accuracy Score Comparison](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Accuracy%20score%20comparison.PNG?raw=true)  
+### Models Implemented  
+- Logistic Regression  
+- KNN  
+- Naive Bayes  
+- Decision Tree  
+- Random Forest  
+- AdaBoost  
+- Gradient Boost  
+- Voting Classifier  
 
-### ROC Graph (Adaboost Example)  
-![ROC Graph](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Adaboost.PNG?raw=true)  
+### Results after K-Fold Cross Validation  
+![Model Evaluation](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Model%20evaluation.PNG?raw=true)  
 
-### Confusion Matrices  
-![Confusion Matrices](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/confusion_matrix_models.PNG?raw=true)  
+> **Best Model:** Voting Classifier (~85% Accuracy).  
 
----
+```python
+from sklearn.ensemble import VotingClassifier
+clf1 = GradientBoostingClassifier()
+clf2 = LogisticRegression()
+clf3 = AdaBoostClassifier()
 
-## ✅ Results
-- **Best Model:** Voting Classifier (~85% Accuracy).  
-- **Key Insights:**  
-  - Customers with **Month-to-Month contracts** churn the most.  
-  - **Electronic Check payments** are strongly linked to churn.  
-  - Customers with **high monthly charges** and **short tenure** churn more.  
-  - Lack of **online security, tech support, or dependents** increases churn probability.  
-
----
-
-## 📌 Conclusion
-This project demonstrates how **Machine Learning can effectively predict telecom customer churn**.  
-
-- Using multiple ML models, the **Voting Classifier** performed best, achieving ~85% accuracy.  
-- The analysis shows that **contract type, billing method, charges, and service features** play the biggest role in customer retention.  
-- These insights can help telecom companies design **targeted retention strategies** such as:  
-  - Incentives for customers on month-to-month contracts.  
-  - Better support for customers using electronic checks.  
-  - Discounts or loyalty benefits for high-charge and short-tenure customers.  
-
-📈 In summary: **Predicting churn early saves costs, boosts retention, and ensures long-term customer loyalty.**  
-
----
-
-## ⚙️ Usage
-```bash
-# Clone the repository
-git clone https://github.com/praveengouda25/Telecom-Customer-Churn-prediction.git
-
-# Navigate to project
-cd Telecom-Customer-Churn-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Flask app
-python app.py
+eclf1 = VotingClassifier(
+    estimators=[('gbc', clf1), ('lr', clf2), ('abc', clf3)], 
+    voting='soft'
+)
+eclf1.fit(X_train, y_train)
+predictions = eclf1.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, predictions))

@@ -125,7 +125,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 - Voting Classifier  
 
 ### Results after K-Fold Cross Validation  
-![Model Evaluation](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/Model%20evaluation.PNG?raw=true)  
+![Model Evaluation](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/Model%20evaluation.PNG)  
 
 > **Best Model:** Voting Classifier (~85% Accuracy).  
 

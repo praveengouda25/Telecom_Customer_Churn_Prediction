@@ -11,7 +11,7 @@
 
 # <div align="center">Telecom Customer Churn Prediction</div>
 
-![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/78c2ea020d390ace3f3e21544af0cc6f33ae29eb/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/47a3fb8df5ef5dd96279801f969aaf941399b59e/icons/dashboard.png)  
 
 
 ## 📌 Introduction

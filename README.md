@@ -1,4 +1,3 @@
-# Telecom_Customer_Churn_Prediction
 <div align="right">
   
 [1]: https://github.com/praveengouda25

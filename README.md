@@ -11,7 +11,7 @@
 
 # <div align="center">Telecom Customer Churn Prediction</div>
 
-![Customer Churn](https://img.freepik.com/free-vector/customer-churn-rate-concept-illustration_114360-7967.jpg)  
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/78c2ea020d390ace3f3e21544af0cc6f33ae29eb/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
 
 
 ## 📌 Introduction

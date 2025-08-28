@@ -77,7 +77,7 @@ We used the [Telco Customer Churn dataset](https://www.kaggle.com/bhartiprasad17
 
 ### 4. Payment Methods  
 ![Payment Methods](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/payment%20methods.png)  
-![Payment wrt Churn](https://github.com/praveengouda25/Telecom-Customer-Churn-prediction/blob/main/output/payment%20ethods%20with%20respectto%20churn.PNG?raw=true)  
+![Payment wrt Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/main/outputs/payment%20ethods%20with%20respectto%20churn.PNG)  
 > Customers paying via **Electronic Check** churn more frequently.  
 
 ### 5. Internet Services  
